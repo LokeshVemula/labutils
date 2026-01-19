@@ -5,4 +5,4 @@ The Script: check_and_reboot.sh ****# Description: Interactively check if a syst
 
 How to use or download:
 Use this to download or get the script:
-wget https://raw.githubusercontent.com/LokeshVemula/labutils/main/check_and_reboot.sh -O check_and_reboot.sh chmod +x check_and_reboot.sh ./check_and_reboot.sh****
+wget https://raw.githubusercontent.com/LokeshVemula/labutils/main/tools/ipmi-check-reboot/check_and_reboot.sh -O check_and_reboot.sh chmod +x check_and_reboot.sh ./check_and_reboot.sh****
