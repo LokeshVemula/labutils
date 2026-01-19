@@ -1,4 +1,4 @@
 ## Tools
 
 - [IPMI Check & Reboot](tools/ipmi-check-reboot/README.md)
-- [Hung Recovery](tools/hung-recovery/README.md) *(coming soon)*
+- [Hung Recovery](tools/hung-recovery/README.md)
