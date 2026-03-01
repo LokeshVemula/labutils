@@ -16,5 +16,5 @@ wget https://raw.githubusercontent.com/LokeshVemula/labutils/main/tools/ssh-cred
 
 chmod +x ssh_which_cred_works.sh
 
-Now run the script and give your inputs: system, IPMI details and PDU details
+Now run the script and give your inputs: systems, credentials details
 ./ssh_which_cred_works.sh systems.txt crednetials.txt****
