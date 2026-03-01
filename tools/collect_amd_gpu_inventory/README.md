@@ -12,7 +12,7 @@ The Script: collect_amd_gpus_paraniko.py ****# Description: Repeatedly checks th
 
 #Have all the systems in a file called hosts.txt
 
-#Use this to download or get the script: wget https://raw.githubusercontent.com/LokeshVemula/labutils/main/tools/collect_amd_gpu_inventory/collect_amd_gpus_paraniko.py -O ssh_which_cred_works.sh
+#Use this to download or get the script: wget https://raw.githubusercontent.com/LokeshVemula/labutils/main/tools/collect_amd_gpu_inventory/collect_amd_gpus_paramiko.py -O collect_amd_gpus_paramiko.py
 
 #Run the following to make the downloaded script to executable
 
